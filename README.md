@@ -45,9 +45,9 @@ Mosquitto test broker service was used for our purposes
 👤 **Tatvam Dadheech, Rahul Kumar, Pullak Barik, Gauravi Kabadi, Methuku Preetham**
 
 * Github: [@Tatvam](https://github.com/Tatvam)
-* Github: [@Preetham](https://github.com/rk36)
+* Github: [@Preetham](https://github.com/methuku123)
 * Github: [@Pullak](https://github.com/TipsbyPullak)
-* Github: [@Rahul](https://github.com/methuku123)
+* Github: [@Rahul](https://github.com/rk36)
 
 ## Show your support
 
