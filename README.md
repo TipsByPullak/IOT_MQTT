@@ -6,9 +6,11 @@
   </a>
 </p>
 
-## To Install npm in ubuntu 
+## To Install npm in ubuntu
+```sh
 sudo apt-get install nodejs
 sudo apt-get install npm
+```
 
 ## Install from the root directory of the local repo
 
